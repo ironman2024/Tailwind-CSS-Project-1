@@ -8,6 +8,7 @@ This repository contains the frontend of the Hoster website. The project is a re
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
+- [Images of the execution](#images-of-the-execution)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -41,6 +42,11 @@ Make sure you have the following software installed:
 
 - [Node.js](https://nodejs.org/) (includes npm)
 - [Git](https://git-scm.com/)
+
+### Images of the execution
+  ![image](https://github.com/user-attachments/assets/45c7c67e-c2f3-4409-9abc-498abfe30fce)
+  ![image](https://github.com/user-attachments/assets/33865017-879b-4662-917f-e38a59ec78bf)
+  ![image](https://github.com/user-attachments/assets/4e7cccc3-9492-4001-9b35-7972fae248b0)
 
 ### Installation
 
