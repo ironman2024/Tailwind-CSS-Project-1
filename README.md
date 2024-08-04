@@ -1,4 +1,4 @@
-# Tailwind Css Project 1
+# Tailwind CSS Project 1
 
 This repository contains the frontend of the Hoster website. The project is a responsive webpage developed using Tailwind CSS, HTML, React, and Vite.
 
