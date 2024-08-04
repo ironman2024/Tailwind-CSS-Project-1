@@ -50,7 +50,7 @@ Make sure you have the following software installed:
    ```
 2. **Navigate to the project directory:**
    ```sh
-   cd hoster-frontend
+   cd Tailwind-CSS-Project1
    ```
 3. **Install dependencies:**
    ```sh
